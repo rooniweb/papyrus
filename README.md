@@ -1,2 +1,2 @@
 # papyrus
-PLateforme de gestion
+PLateforme de gestionde de Papier
